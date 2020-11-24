@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Aceite Girasol",
+        "price": 142
+    },
+    {
+        "id": 2,
+        "name": "Aceto balsámico",
+        "price": 84
+    },
+    {
+        "id": 3,
+        "name": "Acondicionador Aguacate Y Argan Algabo x 930 ml",
+        "price": 89
+    },
+    {
+        "id": 4,
+        "name": "Agua de Mesa Sin Gas Nihuil x 2 lt",
+        "price": 38
+    },
+    {
+        "id": 5,
+        "name": "Alcohol en gel Doy Pack Germex x 250 ml",
+        "price": 101
+    },
+    {
+        "id": 6,
+        "name": "Algodón Hidrófilo Clásico Doncella x 140 gr",
+        "price": 87
+    },
+    {
+        "id": 7,
+        "name": "Arroz Largo Fino 00000 Primor x 1 kg",
+        "price": 62
+    },
+    {
+        "id": 8,
+        "name": "Arvejas Partidas Secas Ramoneda x 500 gr",
+        "price": 82
+    },
+    {
+        "id": 9,
+        "name": "Atún Desmenuzado Al Natural Supermercado x 170 gr",
+        "price": 80
+    },
+    {
+        "id": 10,
+        "name": "Bolsas Consorcio 60 X 75 Negra X 10 Un Good x 10 un",
+        "price": 100
+    },
+    {
+        "id": 11,
+        "name": "Cacao en polvo Arcoa x 180 gr",
+        "price": 43
+    },
+    {
+        "id": 12,
+        "name": "Café Molido La Morenita x 1 kg",
+        "price": 476
+    },
+    {
+        "id": 13,
+        "name": "Caldo De Gallina En Cubo Knorr x 6 un",
+        "price": 40
+    },
+    {
+        "id": 14,
+        "name": "Cepillo dental Adulto 2-Life Ibc x 1 un",
+        "price": 41
+    },
+    {
+        "id": 15,
+        "name": "Cerveza Botella Retornable Quilmes Bajo Cero x 1 lt",
+        "price": 92
+    },
+    {
+        "id": 16,
+        "name": "Crema de leche Para Cocinar Tenor Graso 20% Armonía x 200 cc",
+        "price": 76
+    },
+    {
+        "id": 17,
+        "name": "Desodorante Deo En Aerosol Ap Antibacterial Rexona x 150 ml",
+        "price": 110
+    },
+    {
+        "id": 18,
+        "name": "Esponja Con Fibra Multiuso Virulana x 1 un",
+        "price": 27
+    },
+    {
+        "id": 19,
+        "name": "Fajitas Clásica Tía Maruca x 150 gr",
+        "price": 60
+    },
+    {
+        "id": 20,
+        "name": "Fiambre de cerdo Comercial Supermercado x 1 kg",
+        "price": 261
+    },
+    {
+        "id": 21,
+        "name": "Fideos Al Huevo Codo Grande 308 x 500 gr",
+        "price": 65
+    },
+    {
+        "id": 22,
+        "name": "Fideos Al Huevo Mostachol 308 x 500 gr",
+        "price": 65
+    },
+    {
+        "id": 23,
+        "name": "Fideos Mostachol De Sémola De Trigo Candeal Morixe x 500 gr",
+        "price": 57
+    },
+    {
+        "id": 24,
+        "name": "Flan Vainilla Ravana x 60 gr",
+        "price": 24
+    },
+    {
+        "id": 25,
+        "name": "Galleta Marinera Clásica Tía Maruca x 350 gr",
+        "price": 93
+    },
+    {
+        "id": 26,
+        "name": "Galletitas dulces Clásica Lincoln x 153 gr",
+        "price": 110
+    },
+    {
+        "id": 27,
+        "name": "Arroz",
+        "price": 189
+    },
+    {
+        "id": 28,
+        "name": "Arroz",
+        "price": 108
+    },
+    {
+        "id": 29,
+        "name": "Harina Cañuelas 0000",
+        "price": 60
+    },
+    {
+        "id": 34,
+        "name": "Harina Cañuelas 0000",
+        "price": 61
+    },
+    {
+        "id": 35,
+        "name": "papelhigienico",
+        "price": 70
+    },
+    {
+        "id": 36,
+        "name": "compu",
+        "price": 70
+    }
+]
